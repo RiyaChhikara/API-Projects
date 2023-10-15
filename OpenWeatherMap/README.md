@@ -1,7 +1,7 @@
 # Weather_API-
 ## Description
 This Python script checks the weather forecast for a specific location and sends a text message alert using the Twilio API if it's going to rain within the next 12 hours.
-![Text by Twilio](https://github.com/RiyaChhikara/API-Projects-/assets/115228191/66ae3036-d7aa-4375-97fe-6e4aae0703dd)
+<img src="[Text by Twilio](https://github.com/RiyaChhikara/API-Projects-/assets/115228191/66ae3036-d7aa-4375-97fe-6e4aae0703dd)" width="200" />
 
 ## Prerequisites
 Before using this script, you need to have the following:
