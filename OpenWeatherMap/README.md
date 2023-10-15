@@ -1,18 +1,21 @@
 # Weather_API-
 ## Description
 This Python script checks the weather forecast for a specific location and sends a text message alert using the Twilio API if it's going to rain within the next 12 hours.
+
 <img src="https://github.com/RiyaChhikara/API-Projects-/assets/115228191/751cb7f3-401b-4843-a643-09b1a645a6f8" width="300" />
 
 ## Prerequisites
 Before using this script, you need to have the following:
 
 OpenWeatherMap API Key: You'll need to sign up for an OpenWeatherMap API key and replace api_key1 with your own key.
+
 <img src = "https://github.com/RiyaChhikara/API-Projects-/assets/115228191/a0741af1-c8ae-4b25-9b8d-e7b1d3a9a4fc" width="500" />
 
 Twilio Account SID and Auth Token: You should have a Twilio account and obtain your Account SID and Auth Token. Replace account_sid and auth_token with your Twilio credentials.
+Twilio Phone Numbers: Make sure you have access to Twilio phone numbers. Replace the from and to numbers with the appropriate phone numbers.
+
 <img src ="https://github.com/RiyaChhikara/API-Projects-/assets/115228191/0402e572-0893-42e1-83d9-73526c801dba" width="500" />
 
-Twilio Phone Numbers: Make sure you have access to Twilio phone numbers. Replace the from and to numbers with the appropriate phone numbers.
 
 ## Installation
 Make sure you have Python installed on your system.
