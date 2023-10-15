@@ -11,8 +11,8 @@ OpenWeatherMap API Key: You'll need to sign up for an OpenWeatherMap API key and
 
 <img src = "https://github.com/RiyaChhikara/API-Projects-/assets/115228191/a0741af1-c8ae-4b25-9b8d-e7b1d3a9a4fc" width="500" />
 
-Twilio Account SID and Auth Token: You should have a Twilio account and obtain your Account SID and Auth Token. Replace account_sid and auth_token with your Twilio credentials.
-Twilio Phone Numbers: Make sure you have access to Twilio phone numbers. Replace the from and to numbers with the appropriate phone numbers.
+- Twilio Account SID and Auth Token: You should have a Twilio account and obtain your Account SID and Auth Token. Replace account_sid and auth_token with your Twilio credentials.
+- Twilio Phone Numbers: Make sure you have access to Twilio phone numbers. Replace the from and to numbers with the appropriate phone numbers.
 
 <img src ="https://github.com/RiyaChhikara/API-Projects-/assets/115228191/0402e572-0893-42e1-83d9-73526c801dba" width="500" />
 
