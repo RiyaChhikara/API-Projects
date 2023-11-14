@@ -1,4 +1,4 @@
-# Projects_with_API
+# API Projects
 This is a collection of data science projects integrating popular APIs like Spotify, Openweather, Twilio etc. 
 
 What is an API? 
