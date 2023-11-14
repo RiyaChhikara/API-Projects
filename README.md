@@ -38,6 +38,18 @@ Most APIs need a token/ key. Most APIs are rate limited for the amount of reques
 1. Endpoints: A web location that recieves requests and sends responses.
 2. Parameters: Allow you to send specific requests
 
+## APIs used: Part 1 
+1. Opeweather
+2. Spotify
+3. Twilio
+4. AlphaVantage
+
+## APIs used: Part 2: 
+1. New York Times
+2. Google Maps
+3. GitHub
+4. Transport for London Unified API
+
 
 
 
